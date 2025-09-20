@@ -27,15 +27,15 @@
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,tensorflow,nextjs,react,ts,tailwind,postgres,git,github,tableau" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,tensorflow,excel,powerbi,git,github,sql" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaJadhav_Placeholder&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaJadhav_Placeholder&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehavj11_Placeholder&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavj11_Placeholder&layout=compact&theme=radical" height="180" />
 </div>
 
 
@@ -43,14 +43,14 @@
 
 ## 🔥 Streaks  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NehaJadhav_Placeholder&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nehavj11_Placeholder&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
 <div align="center">
-  <img src="https://github.com/NehaJadhav_Placeholder/NehaJadhav_Placeholder/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/NehaJadhav_Placeholder/Nehavj11_Placeholder/blob/output/snake.svg" alt="snake animation"/>
 </div>
 
 ---
