@@ -52,13 +52,13 @@
 
 ## 🐍 Contribution Snake  
 <div align="center">
-  <img src="https://github.com/NehaJadhav_Placeholder/Nehavj11/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Nehavj11/Nehavj11/blob/output/snake.svg" alt="snake animation"/>
 </div>
 
 ---
 
 ## 📈 Contribution Graph
-![Neha's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NehaJadhav_Placeholder&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![Neha's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nehavj11&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
 ---
 
