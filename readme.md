@@ -27,7 +27,9 @@
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,tensorflow,excel,powerbi,git,github,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,tensorflow,git,github,postgresql" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="SQL" width="48" height="48"/>
 </p>
 
 ---
